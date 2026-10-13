@@ -26,9 +26,9 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3>🪟 <a href="https://github.com/ThioJoe/Windows-Sandbox-Tools">Windows-Sandbox-Tools</a></h3>
-      <p>Various useful scripts for use within Windows Sandbox</p>
-      <p><code>PowerShell</code></p>
+      <h3>🌐 <a href="https://github.com/ThioJoe/Browser-Based-Tools">Browser-Based-Tools</a></h3>
+      <p>Various utilities and tools that run locally right in your browser</p>
+      <p><code>HTML</code></p>
     </td>
     <td width="50%">
     </td>

@@ -24,4 +24,13 @@
       <p><code>C#</code></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3>🪟 <a href="https://github.com/ThioJoe/Windows-Sandbox-Tools">Windows-Sandbox-Tools</a></h3>
+      <p>Various useful scripts for use within Windows Sandbox</p>
+      <p><code>PowerShell</code></p>
+    </td>
+    <td width="50%">
+    </td>
+  </tr>
 </table>
